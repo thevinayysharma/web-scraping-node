@@ -10,7 +10,7 @@ Basic web scraper to understand scraping.
 -  [Axios](https://www.npmjs.com/package/axios)
 
 
-To learn web scraping in Node.js:
+#### To learn web scraping in Node.js:
 
 1. Learn why Scraping is required. Types of scraping. Popular LIbraries.
 2. After theory, watch max 1-2 short videos to have a quick glance understanding flow. Don't code, just watch. Read one - two blogs and note down the abstract structure for scraping. 
